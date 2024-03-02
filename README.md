@@ -31,7 +31,7 @@ The HireMe Button features a modern design with smooth hover effects, making it 
 
 1. Clone the repository:
     
-    git clone https://github.com/abhinay-kumar47/Hireme_button.git
+    git clone https://github.com/abhinay-techx/Hireme_button.git
     
     
 2. Copy the HTML and CSS code from the repository into your project.
@@ -44,6 +44,6 @@ Contributions are welcome! If you have ideas for improvement or encounter any is
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.notion.so/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ---
